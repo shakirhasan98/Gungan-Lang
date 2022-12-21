@@ -1,0 +1,102 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:wght@400;700&display=swap');
+
+
+
+body{
+    margin: 0px;
+    
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+
+header{
+    background-color: #be185d;
+    display: block;
+    height: min-content;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    border-bottom-left-radius   : 1rem;
+}
+
+.cover{
+    text-align: center;
+}
+
+.cover .pic{
+    padding: 2rem;
+    width: 150x;
+    height: 100px;
+}
+
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+#inputText{
+    Display: block;
+    height: 20vh;
+    width: 50%;
+    border: 3px solid;
+    border-radius: 0.5rem;
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+    background-color: #ffffff; 
+    font-weight: 700;
+
+}
+
+
+#btn-translate {
+    display: block;
+    padding: 10px 20px;
+    margin: auto;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color:#be185d;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+#output{
+    Display: block;
+    height: 20vh;
+    width: 50%;
+    border: 3px solid;
+    border-radius: 0.5rem;
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+    background-color: #ffffff; 
+    font-weight: 700;
+
+}
+
+
+.footer{
+    background-color: #be185d;
+    padding: 2rem;
+    text-align: center;
+    border-top-right-radius: 1rem;
+    color: black;
+    margin-top: 1rem;
+}
+
+.footer .link{
+    color:black;
+    text-decoration: none;
+}
+
+.inline-bullet-lists{
+    display: inline;
+    padding: 0rem 0.5rem;
+    text-decoration: none;
+}
